@@ -1,0 +1,6 @@
+eggs
+flour
+milk
+butter
+sugar
+cocoa
